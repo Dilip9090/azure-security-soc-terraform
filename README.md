@@ -43,6 +43,7 @@ git clone https://github.com/Dilip9090/azure-security-soc-terraform.git
 cd azure-security-soc-terraform
 
 2. Update variables.tf (your IP for SSH/RDP)
+
 3. Login to Azure
 az login
 
