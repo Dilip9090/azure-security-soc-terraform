@@ -39,7 +39,7 @@ End-to-end Terraform project demonstrating real-world Azure Security architectur
 
 ```bash
 1. Clone & configure
-git clone https://github.com/YOURUSERNAME/azure-security-soc-terraform.git
+git clone https://github.com/Dilip9090/azure-security-soc-terraform.git
 cd azure-security-soc-terraform
 
 2. Update variables.tf (your IP for SSH/RDP)
