@@ -38,15 +38,15 @@ End-to-end Terraform project demonstrating real-world Azure Security architectur
 ## 🚀 Quick Start
 
 ```bash
-# 1. Clone & configure
+1. Clone & configure
 git clone https://github.com/YOURUSERNAME/azure-security-soc-terraform.git
 cd azure-security-soc-terraform
 
-# 2. Update variables.tf (your IP for SSH/RDP)
-# 3. Login to Azure
+2. Update variables.tf (your IP for SSH/RDP)
+3. Login to Azure
 az login
 
-# 4. Deploy
+4. Deploy
 terraform init
 terraform validate
 terraform plan
